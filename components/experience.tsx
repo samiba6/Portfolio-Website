@@ -13,7 +13,7 @@ import {
 } from "react-vertical-timeline-component";
 
 export default function Experience() {
-  const { ref } = useSectionInView("Experience");
+  const { ref } = useSectionInView("Expérience");
   const { theme } = useTheme();
 
   return (
